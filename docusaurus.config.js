@@ -71,6 +71,12 @@ const config = {
             label: 'Documentation',
           },
           {
+            type: 'doc',
+            docId: 'api',
+            position: 'left',
+            label: 'API',
+          },
+          {
             href: 'https://gitlab.com/mangochango/internal-projects',
             label: 'Repo URL',
             position: 'right',

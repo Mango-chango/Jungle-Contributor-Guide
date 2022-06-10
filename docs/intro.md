@@ -1,47 +1,24 @@
----
-sidebar_position: 2
----
+# Introduction
 
-# Tutorial Intro
+Welcome to Mango Chango Contribution Guide/Wiki
 
-Let's discover **Docusaurus in less than 5 minutes**.
+## Why?
+
+Jungle is a Bussiness and People administration tool that helps Mango Chango's Consultants to report and manage their time and skills. This Contribution Guide will help you, to colaborate, contribute in building this great tool that will enable others to improve their work. Here you'll find instructions, best practices, and the best path to get started with Jungle's development life cycle.
+
+## Jungle Features
+
+Jungle is a platform that is built with latest technologies and framework to assure reliable, scalable and maintable code base, Jungle most important components are:
+
+- Jungle's Database (MyQSL)
+- Jungle's REST API (NestJS)
+- Jungle's Web Application (ReactJS)
 
 ## Getting Started
 
-Get started by **creating a new site**.
+In order to start working on Jungle. You will have to read and learn several documents that we have prepare to get you on board:
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
-
-### What you'll need
-
-- [Node.js](https://nodejs.org/en/download/) version 14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+1. How to Write User Stories
+2. How to Contribute (Code Version Control)
+3. How to Do Unit Test
+4. How to review/monitor Deployment Cycle 
