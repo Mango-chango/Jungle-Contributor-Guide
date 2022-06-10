@@ -9,7 +9,7 @@ const config = {
   title: 'Jungle Wiki',
   tagline: 'Mango Chango Jungle Wiki',
   url: 'https://jungle.mangochango.com/',
-  baseUrl: '/',
+  baseUrl: '/Jungle-Contributor-Guide/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
