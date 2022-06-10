@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjungle_wiki=self.webpackChunkjungle_wiki||[]).push([[772],{6526:function(e){e.exports=JSON.parse('{"label":"hello","permalink":"/Jungle-Contributor-Guide/blog/tags/hello","allTagsPath":"/Jungle-Contributor-Guide/blog/tags","count":2}')}}]);
