@@ -1,9 +1,11 @@
 ---
 sidebar_position: 2
-sidebar_label: 'Code Version Control'
+sidebar_label: 'Contribution Guidelines'
 ---
 
-# Code Version Control
+# Contribution Guidelines
+
+## Repositories
 
 ## Branching Strategy
 We stick as much a possible to the Gitflow Workflow:
@@ -18,6 +20,10 @@ We stick as much a possible to the Gitflow Workflow:
 
 - **hot-fix branch:** (when the fix needs to be populated to production quickly and can't wait to the standard sprint release), hot-fix branches are created from master, when the work is done it's merged back to master and also to dev
 
-## Best Practices
+## Repository Best Practices
 
 ## Pull Request Template
+
+## Branch Status Labels
+
+## Javascript Best Practices

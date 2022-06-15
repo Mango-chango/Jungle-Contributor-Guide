@@ -18,7 +18,21 @@ Jungle is a platform that is built with latest technologies and framework to ass
 
 In order to start working on Jungle. You will have to read and learn several documents that we have prepare to get you on board:
 
-1. How to Write User Stories
-2. How to Contribute (Code Version Control)
-3. How to Do Unit Test
-4. How to review/monitor Deployment Cycle 
+1. System Architecture
+2. Database Designs
+3. Contribution Guidelines
+4. User Stories 
+
+
+General system Architecture
+Database designs
+- Contribution Guidelines
+  - Repositories
+  - Github Repo Guidelines (Best Practices)
+  - Pull Request Github Guidelines
+  - Repository Labels
+  - Javascript guidelines (link to anb standard maybe)
+- User Stories
+  - How to take a story (how to assign to yourself the story)
+  - How to add stories to the backlog
+  - How to request a grooming session

@@ -94,3 +94,11 @@ For Example:
 * An Epic: Managing Profiles
   * A Story: As an app user, I want to add profile photos so I get recognized by my followers
   * A Story: As an admin, I want to block photos from users, so that they don't violate community rules.
+
+## Writing a User Story to Work On Jungle
+
+## Writing the User Story from Requirements
+
+## Adding the User Story to the Backlog
+
+## Requesting a Grooming session to discuss the User Story

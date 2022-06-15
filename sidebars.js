@@ -16,6 +16,9 @@ const sidebars = {
   // By default, Docusaurus generates a sidebar from the docs folder structure
   tutorialSidebar: [
     'intro',
+    'system-architecture/system-architecture',
+    'database-design/database-design',
+    'project-framework/project-framework',
     'user-stories/user-stories',
     'version-control/version-control'
   ],

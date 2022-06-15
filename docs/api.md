@@ -13,4 +13,3 @@ Jungle's REST API is build with [NestJS](https://nestjs.com/), NestJS is framewo
 ## Postman Collections
 
 ## Versions
-
