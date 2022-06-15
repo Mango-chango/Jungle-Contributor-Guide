@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkjungle_wiki=self.webpackChunkjungle_wiki||[]).push([[5266],{9401:function(u){u.exports=JSON.parse('{"label":"docusaurus","permalink":"/Jungle-Contributor-Guide/blog/tags/docusaurus","allTagsPath":"/Jungle-Contributor-Guide/blog/tags","count":4}')}}]);

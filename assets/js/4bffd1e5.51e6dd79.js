@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjungle_wiki=self.webpackChunkjungle_wiki||[]).push([[196],{8005:function(e){e.exports=JSON.parse('{"label":"facebook","permalink":"/Jungle-Contributor-Guide/blog/tags/facebook","allTagsPath":"/Jungle-Contributor-Guide/blog/tags","count":1}')}}]);
