@@ -10,8 +10,9 @@ sidebar_label: 'Contribution Guidelines'
 Jungle's Project Repositories are divided into:
 
 1. [Infrastructure Repository](https://github.com/Mango-chango/Jungle-Infrastructure)
-2. [Backend and Frontend Mono Repository](https://github.com/Mango-chango/Jungle-Contributor-Guide)
-3. [Documentation/Wiki Repository](https://github.com/Mango-chango/Jungle-Contributor-Guide)
+2. [Frontend Mono Repository](https://github.com/Mango-chango/jungle-frontend)
+3. [Backend Mono Repository](https://github.com/Mango-chango/jungle-backend)
+4. [Documentation/Wiki Repository](https://github.com/Mango-chango/Jungle-Contributor-Guide)
 
 If you don't have access to this repos you can contact you're immediate Manager, instructions to build and start your local environment can be found in each repository README file.
 
@@ -23,7 +24,7 @@ We stick as much a possible to the Gitflow Workflow:
 
 - **dev branch:** is the QA branch, it's the one deployed to qa/dev server and contains features that are going to be released to production
 
-- **feature branch:** for each new task a feature branch is created from dev branch and its merged back to dev branch when the work is done
+- **feature branch:** for each new task a feature branch is created from dev branch with **name** format like: **[username]/feature-name** and its merged back to dev branch when the work is done
 
 - **bug-fix branch:** (when the fix is going to come with all the features in the normal sprint release), bug-fix branches are created from dev branch and its merged back to dev branch when the work is done
 
