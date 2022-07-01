@@ -25,8 +25,6 @@ As a <font color="red">[type of user]</font>, I want <font color="blue">[an acti
 
 For Example:
 
-- As a <font color="red">passenger</font>, I want to <font color="blue">link the credit card to my profile</font>so that <font color="green">I can pay for a ride faster, easier, and without cash</font>.
-
 - As a <font color="red">driver</font>, I want to <font color="blue">add photos of my car in my profile</font> so that <font color="green">I can attract more users</font>
 
 ### How to Write User Stories
@@ -36,9 +34,10 @@ User stories seem to be short and easy to write, but most of the time they requi
 1. Think of the "**Who**"
 
   Make up the list of your end users. Each story should be valuable to some group of end users. Don't think of users only as external customers, make sure to take into account internal users such as admins, editors, etc.
+
 2. Think of the "**What**"
 
-  Define what functionality each user expects, how he/she is going to interact with the app. Remember to describe an intention, not a feature. Instead of "I want to manage my profile" create several stories like "I want to be able to register", "I want to upload my profile photo". Keep it short. 
+  Define what functionality each user expects, how they are going to interact with the app. Remember to describe an intention, not a feature. Keep it short. 
 
 3. Think of the "**Why**"
 
@@ -46,7 +45,7 @@ User stories seem to be short and easy to write, but most of the time they requi
 
 4. Discuss the story with the Team
 
-  After creating the user story always create a discussion with the whole Team working on the project. It will help to understand how it should work and agree on acceptance criteria. Also, will allow to find out the best way to implement User Stories from the tech perspective. In most of this brainstorming sessions the User story will be updated in order to be refined to meet requirements from all perspectives.
+  After creating the user story always create a discussion with the whole Team working on the project. It will help to understand how it should work and agree on acceptance criteria. Also, will allow to find out the best way to implement User Stories from the tech perspective. 
 
 ## What is a User Story Acceptance Criteria
 
@@ -95,10 +94,13 @@ For Example:
   * A Story: As an app user, I want to add profile photos so I get recognized by my followers
   * A Story: As an admin, I want to block photos from users, so that they don't violate community rules.
 
-## Writing a User Story to Work On Jungle
+## How to work on Jungle v2.0 User's stories
 
-## Writing the User Story from Requirements
-
-## Adding the User Story to the Backlog
-
-## Requesting a Grooming session to discuss the User Story
+1. Navigate to the [Board](https://github.com/orgs/Mango-chango/projects/3)
+2. From the Board pick a ticket
+![Board 1](../assets/board_1.png)
+3. Open the ticket and perform the following updates:
+![Board 2](../assets/board_3.png)
+4. Go ahead an clone the Repos: 
+    -  [Frontend Mono Repository](https://github.com/Mango-chango/jungle-frontend)
+    -  [Backend Mono Repository](https://github.com/Mango-chango/jungle-backend)
