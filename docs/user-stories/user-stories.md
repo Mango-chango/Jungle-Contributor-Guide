@@ -101,6 +101,4 @@ For Example:
 ![Board 1](../assets/board_1.png)
 3. Open the ticket and perform the following updates:
 ![Board 2](../assets/board_3.png)
-4. Go ahead an clone the Repos: 
-    -  [Frontend Mono Repository](https://github.com/Mango-chango/jungle-frontend)
-    -  [Backend Mono Repository](https://github.com/Mango-chango/jungle-backend)
+4. Go ahead Read the Contribution Guide and start hacking.

@@ -102,3 +102,9 @@ Typescript best coding practices will be enforced by default using [ESlint](http
   4. Maintainability
 
 At the moment we don't follow any practices like Clean Code, we only expect developers to follow the ESLint and Prettier rules.
+
+## Start Hacking
+
+Go ahead an clone the Repos: 
+  -  [Frontend Mono Repository](https://github.com/Mango-chango/jungle-frontend)
+  -  [Backend Mono Repository](https://github.com/Mango-chango/jungle-backend)
