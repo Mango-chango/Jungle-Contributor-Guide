@@ -23,16 +23,15 @@ In order to start working on Jungle. You will have to read and learn several doc
 3. Contribution Guidelines
 4. User Stories 
 
+## Requesting Access to Resources and Meetings
 
-General system Architecture
-Database designs
-- Contribution Guidelines
-  - Repositories
-  - Github Repo Guidelines (Best Practices)
-  - Pull Request Github Guidelines
-  - Repository Labels
-  - Javascript guidelines (link to anb standard maybe)
-- User Stories
-  - How to take a story (how to assign to yourself the story)
-  - How to add stories to the backlog
-  - How to request a grooming session
+1. Request Access to @Manolo @HugoCastillo to the [Jungle v2.0 Drive](https://drive.google.com/drive/folders/1_BxYZ8x-Ce4YmVzJ3c2vfOQ5APDeXuem?usp=sharing)
+2. Request Access to @Manolo @HugoCastillo to the [Mango Chango Github Org](https://github.com/Mango-chango)
+3. Request Access to @Manolo @HugoCastillo to the [Jungle v2.0 Project Board](https://github.com/orgs/Mango-chango/projects/3)
+4. Request Access to @Manolo @HugoCastillo to the [Frontend Repository](https://github.com/Mango-chango/jungle-frontend)
+5. Request Access to @Manolo @HugoCastillo to the [Backend Repository](https://github.com/Mango-chango/jungle-backend)
+6. Join with your Mango Chango Credentials to the [Daily Meeting at 9:00 AM](https://meet.google.com/gzd-atvr-rrh)
+
+If you need to create documentation you can also:
+
+7. Request Access to @Manolo @HugoCastillo to the [Jungle v2.0 Wiki Repository](https://github.com/Mango-chango/Jungle-Contributor-Guide)

@@ -11,3 +11,5 @@ Mango Chango's Jungle v2.0 Database is a relational Database built with MySQL, t
   2. Consistency
   3. Isolation
   4. Durability
+
+To update this Diagram request access at:[Database Diagram](https://app.diagrams.net/#G1lToJBIw1iejcWcClVQyqQ9R9ELFO8LJT)
